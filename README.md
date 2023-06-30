@@ -1,2 +1,4 @@
-# Web_Development_2023
-This repo contains all my Web Development trainings and bootcamp exercises.
+# Web Development Bootcamp 2023
+This repo contains all my Web Development training and boot camp exercises.
+
+
